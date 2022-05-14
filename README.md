@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LenzoMan (Len Mahlangu)
 - 👀 I’m interested in all things software development and its power to change the world
-- 🌱 I’m currently learning Java and C++ (C++ for my degree)
-- 💞️ I’m looking to collaborate on any Java learning projects to build a better understanding of the language and put the learnings into practice.
+- 🌱 I’m currently learning C# and C++ (C++ for my degree)
+- 💞️ I’m looking to collaborate on any C# learning projects to build a better understanding of the language and put the learnings into practice.
 - 📫 How to reach me- Email: lenzoman@gmail.com Twitter: @lenmahlangu
 
 <!---
